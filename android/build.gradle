@@ -43,6 +43,7 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+    namespace 'io.flutter.plugins.flutterexifrotation'
 }
 
 dependencies {
